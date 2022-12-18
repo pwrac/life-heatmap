@@ -7,4 +7,8 @@ After I am done with my class, it is likely that this project will be stagnant. 
 ## Usage
 If you don't want to use the default values, execute using these optional argument styles:
 
-`java GOLHeatMap [depth(0-255)]` or `java GOLHeatMap [width] [height]` or `java GOLHeatMap [width] [height] [depth(0-255)]`
+`java GOLHeatMap [depth(0-255)]`
+
+`java GOLHeatMap [width] [height]`
+
+`java GOLHeatMap [width] [height] [depth(0-255)]`
